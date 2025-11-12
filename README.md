@@ -11,4 +11,4 @@ I'm an AI-native builder and Yale cognitive science major super interested in us
 
 ## 📫 Connect
 
-Feel free to explore my projects and reach out if you want to collaborate!
+🌐 [Website](https://isiahudofia.com) | 📧 [Email](mailto:isiah.udofia@yale.edu) | 💼 [LinkedIn](https://www.linkedin.com/in/isiah-udofia/)

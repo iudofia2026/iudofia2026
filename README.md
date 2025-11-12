@@ -12,3 +12,27 @@ AI-native builder and Yale cognitive science major focused on voice interfaces a
 ## Connect
 
 [Website](https://isiahudofia.com) | [Email](mailto:isiah.udofia@yale.edu) | [LinkedIn](https://www.linkedin.com/in/isiah-udofia/)
+
+---
+
+```
+                    ╔═══════════════════════════════════════╗
+                    ║                                       ║
+                    ║  ┌─────────────────────────────────┐ ║
+                    ║  │  Terminal                      │ ║
+                    ║  ├─────────────────────────────────┤ ║
+                    ║  │  $ echo "Isiah Udofia"          │ ║
+                    ║  │  Isiah Udofia                   │ ║
+                    ║  │                                 │ ║
+                    ║  │                                 │ ║
+                    ║  │                                 │ ║
+                    ║  │                                 │ ║
+                    ║  │  $ _                            │ ║
+                    ║  └─────────────────────────────────┘ ║
+                    ║                                       ║
+                    ╚═══════════════════════════════════════╝
+                         ║           ║           ║
+                    ╔════╩═══════════╩═══════════╩════╗
+                    ║                                 ║
+                    ╚═════════════════════════════════╝
+```

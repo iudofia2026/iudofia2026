@@ -1,6 +1,6 @@
 # Hi, I'm Ikechukwu 👋
 
-I'm a cognitive science student working at the intersection of applied ML and full-stack software development. My thesis uses wearable data to model sleep quality and predict recovery patterns. Outside academics, I build voice-focused tools that help creators scale content across languages and platforms, and I ship small projects for fun—web apps, automations, and anything that removes friction. I care about shipping real products, fast, with clean UX and performance that feels invisible.
+I'm an AI-native builder and Yale cognitive science major super interested in using voice and AI. I'm currently working on my ML+sleep thesis using the ABCD dataset for the MoD Lab in the Yale Department of Psychology, where I'm exploring how machine learning can model and predict sleep patterns. I love building voice-focused tools and AI applications that push the boundaries of human-computer interaction.
 
 ## 🔧 Tech Stack
 

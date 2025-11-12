@@ -1,4 +1,4 @@
-# Isiah Udofia
+# Hi, I'm Isiah Udofia 👋
 
 AI-native builder and Yale cognitive science major focused on voice interfaces and artificial intelligence. Currently conducting ML research on sleep modeling using the ABCD dataset at the MoD Lab in the Yale Department of Psychology, exploring how machine learning can predict and model sleep patterns. Building voice-focused tools and AI applications that advance human-computer interaction.
 

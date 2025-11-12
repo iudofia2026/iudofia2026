@@ -21,8 +21,8 @@ AI-native builder and Yale cognitive science major focused on voice interfaces a
                     ║  ┌─────────────────────────────────┐ ║
                     ║  │  Terminal                      │ ║
                     ║  ├─────────────────────────────────┤ ║
-                    ║  │  $ echo "Isiah Udofia"          │ ║
-                    ║  │  Isiah Udofia                   │ ║
+                    ║  │  $ echo "I <3 BUILDING"         │ ║
+                    ║  │  I <3 BUILDING                  │ ║
                     ║  │                                 │ ║
                     ║  │                                 │ ║
                     ║  │                                 │ ║

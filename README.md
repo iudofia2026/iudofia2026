@@ -1,14 +1,14 @@
-# Hi, I'm Isiah
+# Isiah Udofia
 
-I'm an AI-native builder and Yale cognitive science major super interested in using voice and AI. I'm currently working on my ML+sleep thesis using the ABCD dataset for the MoD Lab in the Yale Department of Psychology, where I'm exploring how machine learning can model and predict sleep patterns. I love building voice-focused tools and AI applications that push the boundaries of human-computer interaction.
+AI-native builder and Yale cognitive science major focused on voice interfaces and artificial intelligence. Currently conducting ML research on sleep modeling using the ABCD dataset at the MoD Lab in the Yale Department of Psychology, exploring how machine learning can predict and model sleep patterns. Building voice-focused tools and AI applications that advance human-computer interaction.
 
-## 🔧 Tech Stack
+## Tech Stack
 
-**Languages:** Python, TypeScript, JavaScript
-**Frameworks:** Next.js, React, Node.js
-**ML/Data:** PyTorch, scikit-learn, pandas, numpy
+**Languages:** Python, TypeScript, JavaScript  
+**Frameworks:** Next.js, React, Node.js  
+**ML/Data:** PyTorch, scikit-learn, pandas, numpy  
 **Tools:** Git, Vercel, PostgreSQL
 
-## 📫 Connect
+## Connect
 
-🌐 [Website](https://isiahudofia.com) | 📧 [Email](mailto:isiah.udofia@yale.edu) | 💼 [LinkedIn](https://www.linkedin.com/in/isiah-udofia/)
+[Website](https://isiahudofia.com) | [Email](mailto:isiah.udofia@yale.edu) | [LinkedIn](https://www.linkedin.com/in/isiah-udofia/)

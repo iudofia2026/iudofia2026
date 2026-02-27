@@ -1,6 +1,10 @@
 # Hi, I'm Isiah Udofia 👋
 
-AI-native builder and Yale cognitive science major focused on building interfaces and machine learning. Currently conducting ML research on sleep modeling using the ABCD dataset at the MoD Lab in the Yale Department of Psychology, exploring how machine learning can predict and model sleep patterns. Building tools and AI applications that advance human-computer interaction.
+AI-native design engineer and Yale cognitive science major
+
+Currently conducting ML research on sleep modeling using the ABCD dataset at the MoD Lab in the Yale Department of Psychology, exploring how machine learning can predict and model sleep patterns. 
+
+Building tools and AI applications that advance human-computer interaction.
 
 ## Connect
 
@@ -10,7 +14,6 @@ AI-native builder and Yale cognitive science major focused on building interface
 
 ```
                     ╔═══════════════════════════════════════╗
-                    ║                                       ║
                     ║  ┌─────────────────────────────────┐  ║
                     ║  │  Terminal                       │  ║ 
                     ║  ├─────────────────────────────────┤  ║
@@ -18,16 +21,13 @@ AI-native builder and Yale cognitive science major focused on building interface
                     ║  │  I <3 BUILDING                  │  ║
                     ║  │                                 │  ║
                     ║  │                                 │  ║
-                    ║  │                                 │  ║
-                    ║  │                                 │  ║
                     ║  │  $ _                            │  ║
                     ║  └─────────────────────────────────┘  ║
-                    ║                                       ║
                     ╚═══════════════════════════════════════╝
                          ║           ║           ║
                     ╔════╩═══════════╩═══════════╩════╗
-                    ║                                 ║
-                    ║                                 ║
                     ╚═════════════════════════════════╝
-                         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+                         ▓ ▓ ▓ ▓▓ ▓ ▓ ▓▓ ▓ ▓▓ ▓ ▓▓
+                         ▓▓ ▓ ▓ ▓▓ ▓ ▓ ▓▓ ▓ ▓▓ ▓▓▓
+                         ▓ ▓ ▓ ▓▓ ▓ ▓ ▓▓ ▓ ▓▓ ▓ ▓▓
 ```

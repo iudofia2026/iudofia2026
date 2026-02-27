@@ -1,4 +1,4 @@
-# Hi, I'm Isiah Udofia 👋
+## (isiah udofia) . (com)
 
 AI-native design engineer and Yale cognitive science major
 

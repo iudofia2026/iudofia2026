@@ -1,4 +1,4 @@
-## [(isiah udofia)](https://isiahudofia.com)
+## [(isiah udofia)](https://isiahudofia.com) | ## [(design)](https://design.isiahudofia.com) 
 
 AI-native design engineer and Yale cognitive science major
 

@@ -8,7 +8,7 @@ Building tools and AI applications that advance human-computer interaction.
 
 ## Connect
 
-[Website](https://isiahudofia.com) | [Email](mailto:isiah.udofia@yale.edu) | [LinkedIn](https://www.linkedin.com/in/isiah-udofia/)
+[Website](https://isiahudofia.com) | [My Designs](https://design.isiahudofia.com) | [Email](mailto:isiah.udofia@yale.edu) | [LinkedIn](https://www.linkedin.com/in/isiah-udofia/)
 
 ---
 

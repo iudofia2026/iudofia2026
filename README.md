@@ -11,23 +11,3 @@ Building tools and AI applications that advance human-computer interaction.
 [Website](https://isiahudofia.com) | [My Designs](https://design.isiahudofia.com) | [Email](mailto:isiah.udofia@yale.edu) | [LinkedIn](https://www.linkedin.com/in/isiah-udofia/)
 
 ---
-
-```
-                    ╔═══════════════════════════════════════╗
-                    ║  ┌─────────────────────────────────┐  ║
-                    ║  │  Terminal                       │  ║ 
-                    ║  ├─────────────────────────────────┤  ║
-                    ║  │  $ echo "I <3 BUILDING"         │  ║
-                    ║  │  I <3 BUILDING                  │  ║
-                    ║  │                                 │  ║
-                    ║  │                                 │  ║
-                    ║  │  $ _                            │  ║
-                    ║  └─────────────────────────────────┘  ║
-                    ╚═══════════════════════════════════════╝
-                         ║           ║           ║
-                    ╔════╩═══════════╩═══════════╩════╗
-                    ╚═════════════════════════════════╝
-                         ▓ ▓ ▓ ▓▓ ▓ ▓ ▓▓ ▓ ▓▓ ▓ ▓▓
-                         ▓▓ ▓ ▓ ▓▓ ▓ ▓ ▓▓ ▓ ▓▓ ▓▓▓
-                         ▓ ▓ ▓ ▓▓ ▓ ▓ ▓▓ ▓ ▓▓ ▓ ▓▓
-```

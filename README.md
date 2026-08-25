@@ -7,7 +7,7 @@ i build products, brands, and tools — mostly by directing ai agents, building 
 ## now
 
 **[absolute rest](https://isiahudofia.com/absolute-rest)** — product · design lead · engineering  
-**academic index** — co-founder · design lead
+**[academic index](academicindex.ai)** — co-founder · design lead
 
 ## connect
 

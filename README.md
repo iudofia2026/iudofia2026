@@ -1,13 +1,16 @@
-## [(isiah udofia)](https://isiahudofia.com) | [(design)](https://design.isiahudofia.com) 
+## [(isiah udofia)](https://isiahudofia.com) | [(design)](https://design.isiahudofia.com)
 
-AI-native design engineer and Yale cognitive science major
+design engineer · co-founder of [academic index](https://isiahudofia.com/academic-index) · yale cognitive science '26 · som technology management '27
 
-Currently conducting ML research on sleep modeling using the ABCD dataset at the MoD Lab in the Yale Department of Psychology, exploring how machine learning can predict and model sleep patterns. 
+i build products, brands, and tools — mostly by directing ai agents, building systems with cool interfaces that make complex data feel legible
 
-Building tools and AI applications that advance human-computer interaction.
+## now
 
-## Connect
+**[absolute rest](https://isiahudofia.com/absolute-rest)** — product · design lead · engineering  
+**academic index** — co-founder · design lead
 
-[Website](https://isiahudofia.com) | [My Designs](https://design.isiahudofia.com) | [Email](mailto:isiah.udofia@yale.edu) | [LinkedIn](https://www.linkedin.com/in/isiah-udofia/)
+## connect
+
+[portfolio](https://isiahudofia.com) · [design](https://design.isiahudofia.com) · [academic index](https://academicindex.ai) · [email](mailto:isiah.udofia@yale.edu) · [linkedin](https://www.linkedin.com/in/isiah-udofia/)
 
 ---

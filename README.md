@@ -2,7 +2,7 @@
 
 product owner & design engineer · co-founder of [academic index](https://isiahudofia.com/academic-index) · yale cognitive science '26 · yale som technology management '27
 
-i build products, brands, and tools — mostly by directing ai agents, building systems with cool interfaces that make complex data feel legible
+i build products, brands, and tools (mostly by directing agents), building systems with cool interfaces that make complex data feel legible
 
 ## now
 
